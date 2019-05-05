@@ -10,7 +10,3 @@ feature1()
   //Sample Code for Feature 1
 }
 
-security patch()
-{
-//security patch
-}
