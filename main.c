@@ -1,4 +1,5 @@
-pseudo code
+p
+eudo code
 {
 Initial Function()
 {
@@ -9,4 +10,9 @@ feature1()
 {
   //Sample Code for Feature 1
 }
+security patch()
+{
+//apply security patch
+}
 
+}
